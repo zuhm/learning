@@ -158,7 +158,7 @@ Influenced by [amitness](https://github.com/amitness/learning), I wanted to crea
 |  `0:22:44` [Define TikTok Success](https://www.youtube.com/watch?v=VW-GTFmrXyQ&list=PLrtCHHeadkHrIkSw0waA_S8p2G_lYxU_j)                     |     ❌     |
 |  `0:17:24` [Strava Workout Strategy](https://www.youtube.com/watch?v=RWT25d03eS0&list=PLrtCHHeadkHrIkSw0waA_S8p2G_lYxU_j)                   |     ❌     |
 |  `0:32:32` [Doctor Search](https://www.youtube.com/watch?v=FYMdFroNc9E&list=PLrtCHHeadkHrIkSw0waA_S8p2G_lYxU_j)                             |     ❌     |
-|  `0:40:42` [Interview Evaluation by Hiring Manager](https://www.youtube.com/watch?v=kUJBuhi-8Rg&list=PLrtCHHeadkHrIkSw0waA_S8p2G_lYxU_j) |     ❌     |
+|  `0:40:42` [Interview Evaluation by Hiring Manager](https://www.youtube.com/watch?v=kUJBuhi-8Rg&list=PLrtCHHeadkHrIkSw0waA_S8p2G_lYxU_j)    |     ❌     |
 
 <br>
 
@@ -198,4 +198,4 @@ Influenced by [amitness](https://github.com/amitness/learning), I wanted to crea
 | :------------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Resource**                                                                                                               | **Status** |
 | [Sign up for Anki](https://ankiweb.net/account/register) and [download the desktop application](https://apps.ankiweb.net/) |     ✓     |
-| [How To Use Anki: An Efficient Tutorial For Beginners](https://leananki.com/how-to-use-anki-tutorial/)                     |     ❌     |
+| [How To Use Anki: An Efficient Tutorial For Beginners](https://leananki.com/how-to-use-anki-tutorial/)                     |     🚧     |
